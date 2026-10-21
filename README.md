@@ -4,8 +4,8 @@
 ## Instructions
 
 ```
-git clone xxx
-cd xxx
+git clone https://github.com/Blazzy12/Crosshair-X-Linux-Patcher.git
+cd Crosshair-X-Linux-Patcher/
 ```
 
 Install
