@@ -1,0 +1,13 @@
+"compatibilitytools"
+{
+  "compat_tools"
+  {
+    "crosshairx_linux"
+    {
+      "install_path" "."
+      "display_name" "Crosshair X Linux (native)"
+      "from_oslist" "windows"
+      "to_oslist" "linux"
+    }
+  }
+}
